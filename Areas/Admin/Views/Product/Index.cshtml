@@ -1,0 +1,87 @@
+﻿
+@model List<Product>
+
+@{
+    int count = 0;
+}
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="row">
+            <div class="col-lg-10 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Product Table</h4>
+                        <a asp-controller="product" asp-action="create" class="btn btn-success">Create Product</a>
+                        <div class="table-responsive">
+                            <table class="table table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>
+                                            Name
+                                        </th>
+                                        <th>
+                                            Image
+                                        </th>
+                                        <th>
+                                            Price
+                                        </th>
+                                        <th>
+                                            Creational Time
+                                        </th>
+                                        <th>
+                                            Department
+                                        </th>
+                                        <th>
+                                            Settings
+                                        </th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (Product product in Model)
+                                    {
+                                        count++;
+                                        <tr>
+                                            <td>
+                                                @count
+                                            </td>
+                                            <td>
+                                                @product.Name
+                                            </td>
+                                            <td>
+                                                <img src="~/img/featured/@product.ImageURL" alt="image" />
+                                            </td>
+                                            <td>
+                                                @product.Price
+                                            </td>
+                                            <td>
+                                                @product.CreateTime
+                                            </td>
+                                            <td>
+                                                @product.Department.Name
+                                            </td>
+                                            <td>
+                                            <td>
+                                                <a class="btn btn-warning btn-info"><i></i></a>
+                                                <a class="btn btn-danger btn-info"><i></i></a>
+                                                <a class="btn btn-success btn-info"><i></i></a>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- content-wrapper ends -->
+        <!-- partial:partials/_footer.html -->
+        <footer class="footer">
+            <div class="d-sm-flex justify-content-center justify-content-sm-between">
+                <span class="text-muted text-center text-sm-left d-block d-sm-inline-block">Copyright © <a href="https://www.bootstrapdash.com/" target="_blank">bootstrapdash.com </a>2021</span>
+                <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center">Only the best <a href="https://www.bootstrapdash.com/" target="_blank"> Bootstrap dashboard  </a> templates</span>
+            </div>
+        </footer>
+        <!-- partial -->
+    </div>
+    </div>

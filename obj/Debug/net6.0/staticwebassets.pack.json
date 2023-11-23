@@ -1,0 +1,685 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\Admin\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\fonts\\Roboto\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\auth\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\images\\auth\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\faces\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\Admin\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\Admin\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\Admin\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\js\\chart.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\Admin\\js\\template.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\blog\\details\\details-author.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\details-author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\blog\\details\\details-hero.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\details-hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\blog\\details\\details-pic.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\details-pic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\blog\\sidebar\\sr-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\sidebar\\sr-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\blog\\sidebar\\sr-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\sidebar\\sr-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\blog\\sidebar\\sr-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\sidebar\\sr-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\breadcrumb.jpg",
+      "PackagePath": "staticwebassets\\img\\breadcrumb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\cart\\cart-1.jpg",
+      "PackagePath": "staticwebassets\\img\\cart\\cart-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\cart\\cart-2.jpg",
+      "PackagePath": "staticwebassets\\img\\cart\\cart-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\cart\\cart-3.jpg",
+      "PackagePath": "staticwebassets\\img\\cart\\cart-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\categories\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\cat-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\categories\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\cat-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\categories\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\cat-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\categories\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\cat-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\categories\\cat-5.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\cat-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\featured\\feature-1.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\featured\\feature-2.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\featured\\feature-3.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\featured\\feature-4.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\featured\\feature-5.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\featured\\feature-6.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\featured\\feature-7.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\featured\\feature-8.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\hero\\banner.jpg",
+      "PackagePath": "staticwebassets\\img\\hero\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\language.png",
+      "PackagePath": "staticwebassets\\img\\language.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\latest-product\\lp-1.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-product\\lp-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\latest-product\\lp-2.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-product\\lp-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\latest-product\\lp-3.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-product\\lp-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\payment-item.png",
+      "PackagePath": "staticwebassets\\img\\payment-item.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\product\\details\\product-details-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-details-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\product\\details\\product-details-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-details-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\product\\details\\product-details-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-details-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\product\\details\\product-details-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-details-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\product\\details\\product-details-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-details-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\product\\details\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\product\\details\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\product\\details\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\product\\details\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\thumb-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\product\\discount\\pd-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\product\\discount\\pd-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\product\\discount\\pd-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\product\\discount\\pd-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\product\\discount\\pd-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\product\\discount\\pd-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\product\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\product\\product-10.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\product\\product-11.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\product\\product-12.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\product\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\product\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\product\\product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\product\\product-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\product\\product-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\product\\product-7.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\product\\product-8.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\product\\product-9.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.OganiMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.OganiMVC.props",
+      "PackagePath": "build\\OganiMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.OganiMVC.props",
+      "PackagePath": "buildMultiTargeting\\OganiMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.OganiMVC.props",
+      "PackagePath": "buildTransitive\\OganiMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
