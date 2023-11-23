@@ -465,6 +465,14 @@
       "PackagePath": "staticwebassets\\img\\categories\\cat-5.jpg"
     },
     {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\eynsteyn-400x260.jpg",
+      "PackagePath": "staticwebassets\\img\\eynsteyn-400x260.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\featured\\eynsteyn-400x260.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\eynsteyn-400x260.jpg"
+    },
+    {
       "Id": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\featured\\feature-1.jpg",
       "PackagePath": "staticwebassets\\img\\featured\\feature-1.jpg"
     },

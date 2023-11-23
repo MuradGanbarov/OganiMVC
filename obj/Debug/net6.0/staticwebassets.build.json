@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NBejlKT7fcI3SgmY4zrvbDir4Mk6t/IK5sO7/qrdVFc=",
+  "Hash": "PGhrcLT83JmcSLGhbiRUas9Ux7HLuKVj8lpAg52QU9A=",
   "Source": "OganiMVC",
   "BasePath": "_content/OganiMVC",
   "Mode": "Default",
@@ -1987,6 +1987,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\categories\\cat-5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\eynsteyn-400x260.jpg",
+      "SourceId": "OganiMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\",
+      "BasePath": "_content/OganiMVC",
+      "RelativePath": "img/eynsteyn-400x260.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\eynsteyn-400x260.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\featured\\eynsteyn-400x260.jpg",
+      "SourceId": "OganiMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\",
+      "BasePath": "_content/OganiMVC",
+      "RelativePath": "img/featured/eynsteyn-400x260.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\featured\\eynsteyn-400x260.jpg"
     },
     {
       "Identity": "C:\\Users\\ca.r214.13\\Desktop\\OganiMVC\\wwwroot\\img\\featured\\feature-1.jpg",

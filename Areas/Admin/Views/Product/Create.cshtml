@@ -4,11 +4,19 @@
         <div class="card">
             <div class="card-body">
                 <h4 class="card-title">Create Product</h4>
-                <form class="forms-sample" method="post">
+                <form class="forms-sample" method="post" enctype="multipart/form-data">
                     <div class="form-group">
                         <label asp-for="Name">Name</label>
                         <input asp-for="Name" class="form-control" placeholder="Name">
                         <span class="text-danger" asp-validation-for="Name"></span>
+                        <input asp-for="Photo" class="form-control" placeholder="Photo">
+                        <span class="text-danger" asp-validation-for="Photo"></span>
+                        <input asp-for="Price" class="form-control" placeholder="Price">
+                        <span class="text-danger" asp-validation-for="Price"></span>
+                        <input asp-for="CreateTime" class="form-control" placeholder="CreateTime">
+                        <span class="text-danger" asp-validation-for="CreateTime"></span>
+                        <input asp-for="DepartmentId" class="form-control" placeholder="DepartmentId">
+                        <span class="text-danger" asp-validation-for="DepartmentId"></span>
                     </div>
                     <button type="submit" class="btn btn-primary me-2">Submit</button>
                     <button class="btn btn-light">Cancel</></button>

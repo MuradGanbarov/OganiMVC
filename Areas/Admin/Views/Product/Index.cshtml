@@ -17,6 +17,9 @@
                                 <thead>
                                     <tr>
                                         <th>
+                                            #
+                                        </th>
+                                        <th>
                                             Name
                                         </th>
                                         <th>
@@ -60,9 +63,8 @@
                                                 @product.Department.Name
                                             </td>
                                             <td>
-                                            <td>
                                                 <a class="btn btn-warning btn-info"><i></i></a>
-                                                <a class="btn btn-danger btn-info"><i></i></a>
+                                                <a asp-action="delete" asp-controller="product" asp-route-id="@product.Id" class="btn btn-danger btn-info"><i></i></a>
                                                 <a class="btn btn-success btn-info"><i></i></a>
                                             </td>
                                         </tr>

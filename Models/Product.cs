@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace OganiMVC.Models
 {
@@ -9,11 +10,13 @@ namespace OganiMVC.Models
         [Required(ErrorMessage = "Ad mutleq daxil edilmelidir")]
         public string Name { get; set; }
 
-        public string ImageURL { get; set; }
+        public string? ImageURL { get; set; }
         public decimal Price { get; set; }
 
         public DateTime CreateTime { get; set; }
         public int DepartmentId { get; set; }
-        public Department Department { get; set; }
+        public Department? Department { get; set; }
+        [NotMapped]
+        public IFormFile Photo { get; set; }
     }
 }
